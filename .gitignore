@@ -40,6 +40,7 @@
 # .idea/*.iml
 # .idea/modules
 *.iml
+.idea
 # *.ipr
 
 # CMake
