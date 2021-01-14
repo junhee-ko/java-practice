@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyOperator {
+public class HelloOperator {
 
   public static void main(String[] args) {
     // 대입 연산자
@@ -51,7 +51,5 @@ public class MyOperator {
     System.out.println(num08);
     System.out.println(num09);
     System.out.println(num10);
-
-
   }
 }

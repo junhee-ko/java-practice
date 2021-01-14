@@ -1,4 +1,4 @@
-package tutoring01;
+package tutoring01.practice;
 
 import java.util.Scanner;
 

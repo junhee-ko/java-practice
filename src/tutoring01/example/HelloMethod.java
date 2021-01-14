@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyMethod {
+public class HelloMethod {
 
   public static void main(String[] args) {
     System.out.println("Before Method");
@@ -16,6 +16,5 @@ public class MyMethod {
         System.out.println(i);
       }
     }
-
   }
 }

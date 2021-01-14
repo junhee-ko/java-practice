@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyWhile {
+public class HelloWhile {
 
   public static void main(String[] args) {
     int num = 10;

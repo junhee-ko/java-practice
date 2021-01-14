@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class Pivonachi {
+public class HelloFibonacci {
 
   public static void main(String[] args) {
     System.out.println(fib(2));
@@ -13,5 +13,4 @@ public class Pivonachi {
 
     return 1;
   }
-
 }

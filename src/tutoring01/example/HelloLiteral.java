@@ -1,9 +1,9 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyVariable {
+public class HelloLiteral {
 
   public static void main(String[] args) {
-    int num = 10;
+    int num = 1 + 5;
     System.out.println(num);
   }
 }

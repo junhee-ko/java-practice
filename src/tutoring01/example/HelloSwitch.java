@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MySwtich {
+public class HelloSwitch {
 
   public static void main(String[] args) {
     int num = 1;

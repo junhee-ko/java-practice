@@ -1,4 +1,4 @@
-package tutoring01.prac;
+package tutoring01.practice;
 
 public class Apple {
 

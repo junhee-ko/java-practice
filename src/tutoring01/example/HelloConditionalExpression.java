@@ -1,10 +1,9 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyConditionalExpression {
+public class HelloConditionalExpression {
 
   public static void main(String[] args) {
     boolean result = 10 > 1 ? false : true;
     System.out.println(result);
   }
-
 }

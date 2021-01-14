@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyRecursion {
+public class HelloRecursion {
 
   public static void main(String[] args) {
     int result = factorial(10);

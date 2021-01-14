@@ -1,10 +1,9 @@
-package tutoring01;
+package tutoring01.example;
 
-public class RecursionSum {
+public class HelloRecursionSum {
 
   public static void main(String[] args) {
     System.out.println(sum(10));
-
   }
 
   public static int sum(int n) {

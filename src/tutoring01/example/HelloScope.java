@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyScope {
+public class HelloScope {
 
   public static void main(String[] args) {
     boolean flag = true;

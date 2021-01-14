@@ -1,6 +1,6 @@
-package tutoring01;
+package tutoring01.example;
 
-public class MyFactorial {
+public class HelloFactorial {
 
   public static void main(String[] args) {
     System.out.println(factorial(3)); // 3! = 3*2*1
